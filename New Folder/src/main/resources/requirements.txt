@@ -1,0 +1,4 @@
+Citeste dintr-un fisier date, proceseaza-le si scrie-le in alt fisier.
+
+Fisierul de intrare are structura:
+TeaCode,Name,Quantity,Price
